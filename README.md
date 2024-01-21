@@ -13,7 +13,8 @@ Destroyer Browser is a lightweight web browser built using Python. It has been e
 </div>
 
 ### 📂 Project Structure
- .
+```
+.
 ├── destroyer-browser.py
 ├── icons/
 │   ├── exit.png
@@ -25,7 +26,7 @@ Destroyer Browser is a lightweight web browser built using Python. It has been e
 ├── README.md
 ├── requirements.txt
 └── ...
-
+```
 
 
 ### 🛠️ Features 
