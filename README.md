@@ -59,7 +59,7 @@ The following OSINT tools have been integrated for users interested in gathering
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Destroyer-official/Destroyer-Browser.git
+    https://github.com/Destroyer-official/Destroyer-Browser.git
     ```
 
 2. **Navigate to the directory:**
