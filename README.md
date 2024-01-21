@@ -27,6 +27,7 @@ Destroyer Browser is a lightweight web browser built using Python. It has been e
 └── ...
 
 
+
 ### 🛠️ Features 
 
 - **Tabbed Browsing:** 🔄 Open multiple tabs to browse different websites simultaneously.
@@ -74,8 +75,6 @@ The following OSINT tools have been integrated for users interested in gathering
     ```bash
     python destroyer-browser.py
     ```
-
-### Screenshots 
 
 ### 📚 How It Works
 
